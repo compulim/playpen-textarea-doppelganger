@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "127ce71e9fc48d62ec39ef5f0bb72a60",
+    "revision": "14c9aee4fae04fba43fd332b4c4c4817",
     "url": "/playpen-textarea-doppelganger/index.html"
   },
   {
-    "revision": "a5ea4eebf00807b74d78",
-    "url": "/playpen-textarea-doppelganger/static/css/main.16864d20.chunk.css"
+    "revision": "8a0a70aa15ce41a7ccdb",
+    "url": "/playpen-textarea-doppelganger/static/css/main.06e85031.chunk.css"
   },
   {
     "revision": "ad53d34be7691603fe34",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/playpen-textarea-doppelganger/static/js/2.4d899115.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a5ea4eebf00807b74d78",
+    "revision": "8a0a70aa15ce41a7ccdb",
     "url": "/playpen-textarea-doppelganger/static/js/main.cf7b98ea.chunk.js"
   },
   {

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/playpen-textarea-doppelganger/static/css/main.16864d20.chunk.css",
+    "main.css": "/playpen-textarea-doppelganger/static/css/main.06e85031.chunk.css",
     "main.js": "/playpen-textarea-doppelganger/static/js/main.cf7b98ea.chunk.js",
     "main.js.map": "/playpen-textarea-doppelganger/static/js/main.cf7b98ea.chunk.js.map",
     "runtime-main.js": "/playpen-textarea-doppelganger/static/js/runtime-main.68883e40.js",
@@ -8,15 +8,15 @@
     "static/js/2.4d899115.chunk.js": "/playpen-textarea-doppelganger/static/js/2.4d899115.chunk.js",
     "static/js/2.4d899115.chunk.js.map": "/playpen-textarea-doppelganger/static/js/2.4d899115.chunk.js.map",
     "index.html": "/playpen-textarea-doppelganger/index.html",
-    "precache-manifest.1ee227d999f2739586011f474b66df7d.js": "/playpen-textarea-doppelganger/precache-manifest.1ee227d999f2739586011f474b66df7d.js",
+    "precache-manifest.ba23ef77a139806b9b713dd58bd4ba2b.js": "/playpen-textarea-doppelganger/precache-manifest.ba23ef77a139806b9b713dd58bd4ba2b.js",
     "service-worker.js": "/playpen-textarea-doppelganger/service-worker.js",
-    "static/css/main.16864d20.chunk.css.map": "/playpen-textarea-doppelganger/static/css/main.16864d20.chunk.css.map",
+    "static/css/main.06e85031.chunk.css.map": "/playpen-textarea-doppelganger/static/css/main.06e85031.chunk.css.map",
     "static/js/2.4d899115.chunk.js.LICENSE.txt": "/playpen-textarea-doppelganger/static/js/2.4d899115.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.68883e40.js",
     "static/js/2.4d899115.chunk.js",
-    "static/css/main.16864d20.chunk.css",
+    "static/css/main.06e85031.chunk.css",
     "static/js/main.cf7b98ea.chunk.js"
   ]
 }
