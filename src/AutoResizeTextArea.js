@@ -12,7 +12,9 @@ function App({ className }) {
   return (
     <div className={classNames('auto-resize-textarea', className)}>
       {/* We need to add a space here, so blank lines will be counted in the doppelganger. */}
-      <div className="auto-resize-textarea__doppelganger">{value}&nbsp;</div>
+      <div aria-hidden={true} className="auto-resize-textarea__doppelganger">
+        {value}&nbsp;
+      </div>
       <textarea className="auto-resize-textarea__textarea" onChange={handleTextAreaChange} value={value} />
     </div>
   );
