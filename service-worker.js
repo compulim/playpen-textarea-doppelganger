@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/playpen-textarea-doppelganger/precache-manifest.7e4fde839483118ac7d9401a94d143c7.js"
+  "/playpen-textarea-doppelganger/precache-manifest.b17bea11f17123971bab757a9f2b285b.js"
 );
 
 self.addEventListener('message', (event) => {
