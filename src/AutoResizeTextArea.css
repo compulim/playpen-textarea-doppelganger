@@ -1,15 +1,21 @@
 .auto-resize-textarea {
+  position: relative;
+
+  /* Styles below this line is for development use only */
+
   background-color: rgba(255, 0, 0, 0.2);
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
     'Helvetica Neue', sans-serif;
   font-size: 24px;
   margin: 10px;
-  position: relative;
 }
 
 .auto-resize-textarea__doppelganger {
-  color: Green;
   white-space: pre-wrap;
+
+  /* Styles below this line is for development use only */
+
+  color: Green;
 }
 
 .auto-resize-textarea__textarea {
