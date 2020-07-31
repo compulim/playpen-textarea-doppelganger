@@ -13,19 +13,23 @@
 }
 
 .auto-resize-textarea__textarea {
+  appearance: none; /* We should tell the user agent we are revamping the style */
   border: 0;
-  color: Red;
   font-family: inherit;
   font-size: inherit;
   height: 100%;
   left: 0;
   margin: 0;
-  opacity: 0.5;
   outline: 0;
-  /* overflow: hidden; */
+  overflow: hidden; /* For hiding the scroll bar in IE11 */
   padding: 0;
   position: absolute;
-  resize: none;
+  resize: none; /* Hiding the textarea resizing handle (on lower-right hand corner) */
   top: 0;
   width: 100%;
+
+  /* Styles below this line is for development use only */
+
+  color: Red;
+  opacity: 0.5;
 }
