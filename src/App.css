@@ -1,0 +1,18 @@
+.app {
+  background-color: rgba(0, 255, 0, 0.2);
+  display: flex;
+}
+
+.app__button {
+  appearance: none;
+  background-color: #ddd;
+  border: 0;
+  font-size: 48px;
+  height: 100px;
+  width: 100px;
+}
+
+.app__text-box {
+  align-self: center;
+  flex: 1;
+}
